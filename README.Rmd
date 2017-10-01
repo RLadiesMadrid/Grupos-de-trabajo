@@ -1,11 +1,9 @@
----
-title: "Grupos de Trabajo RLadies Madrid"
-output: 
-  html_notebook:
-    toc: true
----
 
-## ¿Qué son los grupos de trabajo?
+![]( R-LadiesGlobal.png)
+
+Desde RLadies Madrid queremos darle caña a la comunidad y crecer haciendoos crecer a vosotr@s tambien, para ello hemos pensado que la mejor manera de hacerlo es en lugar de contarlo hacerlo a través de los grupos de trabajo!
+
+# ¿Qué son los grupos de trabajo?
 Son grupos de trabajo para desarrollar proyectos propuestos por vostr@s mism@s basados en R!
 Pueden ser grandes proyectos de desarrollo de algoritmos que lean la mente o paquetes que contengan recopilación de datos interesantes. 
 
